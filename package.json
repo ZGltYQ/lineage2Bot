@@ -6,9 +6,8 @@
   "main": "main.js",
   "dependencies": {
     "image-pixels": "^2.2.2",
-    "ini": "^2.0.0",
     "jimp": "^0.16.2",
-    "keysender": "^1.6.5",
+    "keysender": "^2.2.1",
     "serialport": "^10.5.0"
   },
   "license": "ISC"
